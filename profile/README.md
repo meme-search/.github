@@ -23,3 +23,5 @@ The core project currently supports local, loopback-only operation. A repository
 inside this organization may be experimental or community-maintained; check its
 README and security policy before deploying it.
 
+Repositories use the organization [lifecycle policy](https://github.com/meme-search/.github/blob/main/REPOSITORY_LIFECYCLE.md)
+to distinguish supported, experimental, community-maintained, and archived work.
